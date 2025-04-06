@@ -1,6 +1,6 @@
-Vehicle Sales Prediction
+Vehicle Price Prediction
 
-This is the Vehicle sales prediction project which includes :
+This is the used car Price prediction project which includes :
 Libraries - Numpy, Pandas, Mtplotlib & Seaborn
 I have done Data preprocessing and EDA
 Feature engineering and correlation analysis
